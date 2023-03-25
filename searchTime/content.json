@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "Platano", 
+        "valor": 500
+    },
+    {
+        "nombre": "Manzana",
+        "valor": 300
+    },
+    {
+        "nombre": "naranja", 
+        "valor": 200
+    },
+    {
+        "nombre": "Pera",
+         "valor": 600
+    },
+    {
+        "nombre": "Mandarina",
+        "valor": 100
+    },
+    {
+        "nombre": "Frutilla",
+        "valor": 900
+    },
+    {
+        "nombre": "Durazno",
+        "valor": 600
+    },
+    {
+        "nombre": "Cereza",
+        "valor": 800
+    }
+]
